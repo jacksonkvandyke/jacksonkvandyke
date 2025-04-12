@@ -4,20 +4,20 @@
   My group and I are developing a Sim Firefighting experience. The player takes role as the leader or a firefighting squad in charge of preventing forest fires. Our team has worked hard to get to the current state of the game. Here is a breakdown:
   <br></br>
   
-  Currently we have the following in place:
+  #### Currently we have the following in place:
   -  Basic spawn system
   -  Fire spread algorithm
   -  Houdini generated trees and terrain
   -  Mockup UI
   -  Weather simulation for entire map
 
-  What we plan to have as an mvp:
+  #### What we plan to have as an mvp:
   -  Interactive UI
   -  Playable fire fighter which puts out fires in proximity
   -  Compartalized weather system for added effect
   -  Win/Loss condition
 
-  Some images of progress:
+  #### Some images of progress:
   -  
   
 ## 👨‍💻 Software Development Projects:
