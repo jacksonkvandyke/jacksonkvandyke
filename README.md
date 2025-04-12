@@ -1,8 +1,23 @@
 <h1>Hi, I'm Jackson! <br/><a href="https://github.com/jacksonkvandyke">Programmer</a>, <a href="www.linkedin.com/in/jackson-van-dyke-4389b5270">Software Developer</a></h1>
 
 <h2> 🎓 My Senior Capstone</h2>
-  - My group and I are developing a Sim Firefighting experience. The player takes role as the leader or a firefighting squad in charge of preventing forest fires.
+  My group and I are developing a Sim Firefighting experience. The player takes role as the leader or a firefighting squad in charge of preventing forest fires.
 
+  Currently we have the following in place:
+  -  Basic spawn system
+  -  Fire spread algorithm
+  -  Houdini generated trees and terrain
+  -  Mockup UI
+  -  Weather simulation for entire map
+
+  What we plan to have as an mvp:
+  -  Interactive UI
+  -  Playable fire fighter which puts out fires in proximity
+  -  Compartalized weather system for added effect
+  -  Win/Loss condition
+
+  Some images of progress:
+  -  
   
 
 <h2>👨‍💻 Software Development Projects:</h2>
