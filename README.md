@@ -2,7 +2,7 @@
 
 <h2> 🎓 My Senior Capstone</h2>
   My group and I are developing a Sim Firefighting experience. The player takes role as the leader or a firefighting squad in charge of preventing forest fires. Our team has worked hard to get to the current state of the game. Here is a breakdown:
-  <b></b>
+  <br></br>
   Currently we have the following in place:
   -  Basic spawn system
   -  Fire spread algorithm
