@@ -18,7 +18,10 @@
   -  Win/Loss condition
 
   #### Some images of progress:
-  -  
+![Trees1](https://github.com/user-attachments/assets/6c8ba974-1beb-4e87-97ba-b75f191fc952)
+![Trees2](https://github.com/user-attachments/assets/354c877e-4ae1-4c39-9265-11c9a1a38e4f)
+![TreesOnFire](https://github.com/user-attachments/assets/d89ff908-6aad-4109-9722-826be6c1d89b)
+
   
 ## 👨‍💻 Software Development Projects:
 
