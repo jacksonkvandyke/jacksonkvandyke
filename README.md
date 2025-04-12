@@ -21,7 +21,7 @@
   -  
   
 <h2>👨‍💻 Software Development Projects:</h2>
--  <b>React Sites with my projects</b>
+  -  <b>React Sites with my projects</b>
   -  [Version 2](https://softwaretoaster.netlify.app/)
   -  [Version 1](https://jacksonkvandyke.netlify.app/)
 -  <b>C++/C</b>
