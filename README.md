@@ -1,7 +1,6 @@
 <h1>Hi, I'm Jackson! <br/><a href="https://github.com/jacksonkvandyke">Programmer</a>, <a href="www.linkedin.com/in/jackson-van-dyke-4389b5270">Software Developer</a></h1>
 
 <h2> 🎓 My Senior Capstone</h2>
-<b> What is our capstone project?</b>
   - My group and I are developing a Sim Firefighting experience. The player takes role as the leader or a firefighting squad in charge of preventing forest fires.
 
   
