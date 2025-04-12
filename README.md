@@ -1,8 +1,8 @@
 <h1>Hi, I'm Jackson! <br/><a href="https://github.com/jacksonkvandyke">Programmer</a>, <a href="www.linkedin.com/in/jackson-van-dyke-4389b5270">Software Developer</a></h1>
 
 <h2> 🎓 My Senior Capstone</h2>
-  My group and I are developing a Sim Firefighting experience. The player takes role as the leader or a firefighting squad in charge of preventing forest fires.
-
+  My group and I are developing a Sim Firefighting experience. The player takes role as the leader or a firefighting squad in charge of preventing forest fires. Our team has worked hard to get to the current state of the game. Here is a breakdown:
+  <b></b>
   Currently we have the following in place:
   -  Basic spawn system
   -  Fire spread algorithm
