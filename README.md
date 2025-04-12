@@ -6,6 +6,8 @@
   
 
 <h2>👨‍💻 Software Development Projects:</h2>
+- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
+  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
 - <b>React Sites with my projects</b>
   - [Version 2](https://softwaretoaster.netlify.app/)
   - [Version 1](https://jacksonkvandyke.netlify.app/)
