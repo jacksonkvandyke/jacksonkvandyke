@@ -3,6 +3,7 @@
 <h2> 🎓 My Senior Capstone</h2>
   My group and I are developing a Sim Firefighting experience. The player takes role as the leader or a firefighting squad in charge of preventing forest fires. Our team has worked hard to get to the current state of the game. Here is a breakdown:
   <br></br>
+  
   Currently we have the following in place:
   -  Basic spawn system
   -  Fire spread algorithm
@@ -21,15 +22,15 @@
   
 
 <h2>👨‍💻 Software Development Projects:</h2>
-- <b>React Sites with my projects</b>
-  - [Version 2](https://softwaretoaster.netlify.app/)
-  - [Version 1](https://jacksonkvandyke.netlify.app/)
-- <b>C++/C</b>
-  - [Heap Memory Tester](https://github.com/jacksonkvandyke/HeapMemoryTester)
-  - [Simple Rainbow Cursor](https://github.com/jacksonkvandyke/SimpleRainbowCursor)
-  - [File Viking](https://github.com/jacksonkvandyke/FileVikingExecutable)
-  - [Simple Loading Bar](https://github.com/jacksonkvandyke/SimpleLoadingBar)
-  - [Read Me Generator](https://github.com/jacksonkvandyke/ReadMeGenerator)
+-  <b>React Sites with my projects</b>
+  -  [Version 2](https://softwaretoaster.netlify.app/)
+  -  [Version 1](https://jacksonkvandyke.netlify.app/)
+-  <b>C++/C</b>
+  -  [Heap Memory Tester](https://github.com/jacksonkvandyke/HeapMemoryTester)
+  -  [Simple Rainbow Cursor](https://github.com/jacksonkvandyke/SimpleRainbowCursor)
+  -  [File Viking](https://github.com/jacksonkvandyke/FileVikingExecutable)
+  -  [Simple Loading Bar](https://github.com/jacksonkvandyke/SimpleLoadingBar)
+  -  [Read Me Generator](https://github.com/jacksonkvandyke/ReadMeGenerator)
 - <b>Java</b>   
   - [IP Master](https://github.com/jacksonkvandyke/IPMasterExecutable)
   - [Java Data Transfer](https://github.com/jacksonkvandyke/JavaDataTransfer)
