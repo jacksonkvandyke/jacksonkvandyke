@@ -19,10 +19,35 @@
   -  A game over screen that allows previous games to be ranked
 
   #### Some images of progress:
-![Trees1](https://github.com/user-attachments/assets/6c8ba974-1beb-4e87-97ba-b75f191fc952)
-![Trees2](https://github.com/user-attachments/assets/354c877e-4ae1-4c39-9265-11c9a1a38e4f)
-![TreesOnFire](https://github.com/user-attachments/assets/d89ff908-6aad-4109-9722-826be6c1d89b)
+![Capture](https://github.com/user-attachments/assets/0dbe9bcd-9f71-40f8-9427-0008d38edb7c)
+![Capture2](https://github.com/user-attachments/assets/4d65659f-9a60-45ba-964d-0bd651436fe9)
+![Capture3](https://github.com/user-attachments/assets/a948c64a-eaed-4c36-9ab1-99fe03c6e378)
+![Capture4](https://github.com/user-attachments/assets/6f6411a2-5b9b-4cb8-ab3b-6d7286daadf8)
 
+## 🛠 My New Personal Project:
+  After working on the Sim Firefighter project, I have found out that I really enjoy creating video games in Unreal Engine. So much so that it pushed me to start another side project of my own. This new game allows the player to fly a spaceship, shoot asteroids, and
+  eventually be able to upgrade their equipment. 
+
+  NOTE: I currently do not have a repository setup for this file. Unreal Engine projects are rather large and I do not plan on releasing this project for free publicly.
+  
+  #### Currently I have the following in place:
+  -  A spaceship the player can fly around
+  -  A spawn system that dynamically spawn asteroids
+  -  A simple UI that keeps track of the number of asteroids
+  -  Cool visual effects and some audio
+
+  #### Near future additions:
+  -  A dynamic health system for both the player and asteroids. This system will use mass and speed to determine damage/health
+  -  A leveling system that allows the player to upgrade their ship (This will follow rogue like systems)
+  -  A single enemy ship
+  -  A main menu and pause menu for simple user configurations
+
+  #### Some images of progress:
+  Free placeholder asset from the FAB store:
+  ![image](https://github.com/user-attachments/assets/b4eb4425-7918-46a4-84c6-8ee159ed9783)
+  ![image](https://github.com/user-attachments/assets/144f42ca-922a-4ebd-a0ff-f4a937bd7063)
+  ![image](https://github.com/user-attachments/assets/020cf3cf-2bf4-44bd-ab32-2b07da8ac6e0)
+  ![image](https://github.com/user-attachments/assets/7fb8acec-8755-4a34-8363-294a00128a10)
   
 ## 👨‍💻 Past Software Development Projects:
 
