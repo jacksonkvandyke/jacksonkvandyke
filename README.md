@@ -1,8 +1,19 @@
 <h1>Hi, I'm Jackson! <br/><a href="https://github.com/jacksonkvandyke">Programmer</a>, <a href="https://www.linkedin.com/in/jackson-van-dyke-4389b5270/">Software Developer</a></h1>
 
+## 🧬 Beyond the Code
+  If you're curious about who I am and where I’ve been, I’ve left a little bit about my journey here. While the code someone writes is important, I believe that everyone’s backstory deserves some attention too.
+  
+  I grew up in a small town called Jewell, Oregon—a quiet place known for its farms, animals, and, well… not much else. It was peaceful, full of fresh air, and had its own charm. But as a die-hard computer enthusiast, it wasn’t the easiest environment. Being one of the   few people in the area passionate about computer science made it hard to find like-minded friends.
+  
+  This isn’t meant to be a sob story—just an honest look at what shaped me. The countless hours I spent alone with my computer actually worked to my advantage. I built a strong work ethic (and serious computer stamina), learning to push myself without external
+  encouragement. It gave me perspective: in the real world, success often comes down to you—your determination, your effort.
+  
+  Fast forward to today, and my love for computers and learning is as strong as ever. Even before finishing college, I landed a career at Reynolds & Reynolds, where I get to work alongside an amazing team. Looking back, it’s clear that every experience, even the
+  challenging ones, plays a role in shaping us into people capable of achieving incredible things.
+
 ## 🎓 My Senior Capstone
-  My group and I are developing a Sim Firefighting experience. The player takes role as the leader or a firefighting squad in charge of preventing forest fires. Our team has worked hard to get to the current state of the game. We have changed our course slightly over   
-  the development of the game. Here is a breakdown:
+  You made it this far, nice work! I would like to share with you what my group and I have been developing during out capstone class. We and I are developing a Sim Firefighting experience. The player takes role as the leader or a firefighting squad in charge of
+  preventing forest fires. Our team has worked hard to get to the current state of the game. We have changed our course slightly over the development of the game. Here is a breakdown:
   <br></br>
   
   #### Currently we have the following in place: 
